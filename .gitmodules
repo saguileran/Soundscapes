@@ -1,0 +1,3 @@
+[submodule "Audio-Labeller"]
+	path = Audio-Labeller
+	url = https://github.com/saguileran/Audio-Labeller
